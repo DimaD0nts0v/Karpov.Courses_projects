@@ -7,4 +7,4 @@ Here you can see and evaluate my progress and skills of analyzing data, style an
 
 The repository will be updated as the course progresses.
 
-Thanks and goodluck!
+Thanks for watching and goodluck!
