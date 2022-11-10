@@ -7,7 +7,7 @@ Here you can see and evaluate my progress and skills of analyzing data, style an
 
 A short description of the projects:
 - Python folder: here you can see the first steps in analytics: working with pandas, APIs and visualization libraries
-- SQL folder: there is an example of working with ETL
+- ETL folder: there is an example of working with ETL
 - Statistics folder: there are testing hypotheses and working with the scipy and numpy libraries in the 
 
 The repository will be updated as the course progresses.
