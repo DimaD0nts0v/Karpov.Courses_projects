@@ -1,4 +1,4 @@
-My first steps in data analysis:)
+My first steps in data analysis :)
 
 | Folder        | Описание проекта   | Description         | 
 | ------------- |:--------------------:| -----------------:|
